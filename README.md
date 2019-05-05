@@ -1,2 +1,4 @@
-# google-homepage
-Creating a cover of the google homepage
+# Project Google Homepage
+Creating the layout of Homepage of Google.
+
+To see the final result see [Google HomePage]()
